@@ -1,2 +1,0 @@
-# crossplane-template
-# crossplane-template
